@@ -35,6 +35,7 @@ This list includes design resources, development tools, libraries, and projects 
 
 ### Design
  - [iOS 26 Liquid Glass on Figma](https://www.figma.com/community/file/1514237154489556536): Recreation on Figma
+ - [iOS 26 Liquid Glass • Components on Figma](https://www.figma.com/community/file/1514313836061040295/ios-26-liquid-glass-components): Components on Figma
  - [Liquid Glass on Spline Community](https://app.spline.design/community/file/3cbf0e6a-09c8-4b47-9560-c3ff84130086): Recreation on Spline
  - [How to create Liquid Glass on Unicorn Studio](https://x.com/hiunicornstudio/status/1932171422610448483): Tutorial to recreate liquid glass on Unicorn Studio
  
