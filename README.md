@@ -24,4 +24,9 @@ This list includes design resources, development tools, libraries, and projects 
 
 ### Shader
 
-- [liquid glass button on Shadertoy](https://www.shadertoy.com/view/WftXD2): Recreation using GLSL
+- [Apple Liquid Glass on Shadertoy](https://www.shadertoy.com/view/WftXD2): Recreation using GLSL
+
+### Design
+ - [iOS 26 Liquid Glass on Figma](https://www.figma.com/community/file/1514237154489556536): Recreation on Figma
+ - [Liquid Glass on Spline Community](https://app.spline.design/community/file/3cbf0e6a-09c8-4b47-9560-c3ff84130086): Recreation on Spline
+ 
