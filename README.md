@@ -10,6 +10,7 @@ This list includes design resources, development tools, libraries, and projects 
 
 - [Meet Liquid Glass](https://developer.apple.com/videos/play/wwdc2025/219/): Video about Liquid Glass design principles
 - [Get to know the new design system](https://developer.apple.com/videos/play/wwdc2025/356/): Video about new Apple design system key changes
+- [Apple introduces a delightful and elegant new software design](https://www.apple.com/newsroom/2025/06/apple-introduces-a-delightful-and-elegant-new-software-design/): Press release on Apple Newsroom
 
 ### Documents
 
