@@ -6,15 +6,16 @@ This list includes design resources, development tools, libraries, and projects 
 
 ## Apple Official Resources
 
-### Documents
-
-- [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines): Apple's design guideline
-- [Apple Developer Documentation](https://developer.apple.com/documentation/technologyoverviews/liquid-glass): How to leverage Liquid Glass.
-
 ### WWDC 2025
 
 - [Meet Liquid Glass](https://developer.apple.com/videos/play/wwdc2025/219/): Video about Liquid Glass design principles
 - [Get to know the new design system](https://developer.apple.com/videos/play/wwdc2025/356/): Video about new Apple design system key changes
+
+### Documents
+
+- [Apple Design Resources](https://developer.apple.com/design/resources/): Apple's design templates (Sketch) 
+- [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines): Apple's design guideline
+- [Apple Developer Documentation](https://developer.apple.com/documentation/technologyoverviews/liquid-glass): How to leverage Liquid Glass.
 
 ## Libraries
 
