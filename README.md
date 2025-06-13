@@ -21,3 +21,7 @@ This list includes design resources, development tools, libraries, and projects 
 
 - [shuding/liquid-glass](https://github.com/shuding/liquid-glass): Recreation using pure JS and SVG filters
 - [lucasromerodb/liquid-glass-effect-macos](https://github.com/lucasromerodb/liquid-glass-effect-macos): Recreation using pure CSS and SVG filters
+
+### Shader
+
+- [liquid glass button on Shadertoy](https://www.shadertoy.com/view/WftXD2): Recreation using GLSL
