@@ -24,6 +24,10 @@ This list includes design resources, development tools, libraries, and projects 
 
 - [liquid-glass-react](https://github.com/rdev/liquid-glass-react): React.js implementation
 
+### Flutter
+
+- [liquid_glass_renderer](https://github.com/whynotmake-it/flutter_liquid_glass/tree/main/packages/liquid_glass_renderer): Flutter implementation
+
 ## Recreations
 
 ### Web
@@ -34,6 +38,10 @@ This list includes design resources, development tools, libraries, and projects 
 ### Shader
 
 - [Apple Liquid Glass on Shadertoy](https://www.shadertoy.com/view/WftXD2): Recreation using GLSL
+
+### Flutter
+
+- [colbymaloy/flutter_liquid_glass](https://github.com/colbymaloy/flutter_liquid_glass): Recreation using Flutter
 
 ### Design
  - [iOS 26 Liquid Glass on Figma](https://www.figma.com/community/file/1514237154489556536): Recreation on Figma
