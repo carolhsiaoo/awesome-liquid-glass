@@ -52,6 +52,7 @@ This list includes design resources, development tools, libraries, and projects 
 
 - [shuding/liquid-glass](https://github.com/shuding/liquid-glass) - Pure JavaScript and SVG filters implementation.
 - [lucasromerodb/liquid-glass-effect-macos](https://github.com/lucasromerodb/liquid-glass-effect-macos) - Pure CSS and SVG filters implementation.
+- [Muggleee/liquid-glass-vue](https://github.com/Muggleee/liquid-glass-vue) - Vue.js and WebGL implementation.
 
 ### Shader
 
