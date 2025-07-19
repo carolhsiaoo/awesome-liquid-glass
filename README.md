@@ -64,11 +64,11 @@ This list includes design resources, development tools, libraries, and projects 
 
 ### Design
 
+- [Figma Offical Glass Effect Playground](https://www.figma.com/community/file/1522715486231239473/glass-effect-playground) - New glass effect in Figma.
 - [iOS 26 Liquid Glass on Figma](https://www.figma.com/community/file/1514237154489556536) - Figma community file.
 - [iOS 26 Liquid Glass Components](https://www.figma.com/community/file/1514313836061040295/ios-26-liquid-glass-components) - Figma components library.
 - [Liquid Glass on Spline Community](https://app.spline.design/community/file/3cbf0e6a-09c8-4b47-9560-c3ff84130086) - 3D recreation using Spline.
 - [How to create Liquid Glass on Unicorn Studio](https://x.com/hiunicornstudio/status/1932171422610448483) - Tutorial for recreating Liquid Glass in Unicorn Studio.
-- [Figma Offical Glass Effect Playground](https://www.figma.com/community/file/1522715486231239473/glass-effect-playground) - New glass effect in Figma.
 
 ## Contributing
 
