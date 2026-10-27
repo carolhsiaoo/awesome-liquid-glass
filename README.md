@@ -14,6 +14,7 @@ This list includes design resources, development tools, libraries, and projects 
 - [Libraries](#libraries)
   - [Web](#web)
   - [Flutter](#flutter)
+  - [macOS](#macos)
 - [Recreations](#recreations)
   - [Web](#web-1)
   - [Shader](#shader)
@@ -45,6 +46,10 @@ This list includes design resources, development tools, libraries, and projects 
 ### Flutter
 
 - [liquid_glass_renderer](https://github.com/whynotmake-it/flutter_liquid_glass/tree/main/packages/liquid_glass_renderer) - Flutter implementation of Liquid Glass.
+
+### macOS
+
+- [JellyGlass](https://github.com/54degree5/JellyGlass) - Liquid Glass buttons for AppKit that swell, stretch along the pull and wobble back like jelly. Includes a WebGL2 version ([demo](https://54degree5.github.io/JellyGlass/)).
 
 ## Recreations
 
